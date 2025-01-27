@@ -13,3 +13,6 @@
 **MENTOR NAME**: NEELA SANTOSH
 
 **DESCRIPTION OF TASK**:This task involves leveraging Amazon Web Services (AWS) Simple Storage Service (S3) to create and manage a cloud storage bucket. The goal is to set up an S3 bucket, upload example files, and configure access permissions to ensure secure and controlled access to the stored data. This hands-on activity is a fundamental exercise in understanding how AWS S3 functions as a reliable, scalable, and highly available cloud storage solution. By the end of the task, the deliverables will include a fully configured S3 bucket, a set of uploaded example files, and appropriate access permissions.
+
+**OUTPUT OF TASK**:
+![Image](https://github.com/user-attachments/assets/6f68b405-bb14-4602-a7a8-4aa8e73a22d9)
